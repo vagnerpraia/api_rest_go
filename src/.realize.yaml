@@ -33,7 +33,7 @@ schema:
     extensions:
     - go
     paths:
-    - /
+    - /src
     ignored_paths:
     - .git
     - .realize
